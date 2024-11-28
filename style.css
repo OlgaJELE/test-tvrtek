@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(247, 255, 240);
+}
+tr {
+  background-color: blue;
+}
+th {
+  background-color: blueviolet;
+  text-align: left;
+}
